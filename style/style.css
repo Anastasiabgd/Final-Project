@@ -395,6 +395,9 @@ article a{
     align-items: center;
 }
 
+body{
+    position: relative;
+}
 
 .social{
     width: 50px;
@@ -437,8 +440,9 @@ article a{
     font-size: 24px;
     text-transform: capitalize;
     font-family: poppinsregular;
-    margin-top: 30px;
-    margin-left: 80px;
+    position: absolute;
+    bottom: 760px;
+    left: 80px;
     
 }
 
@@ -451,11 +455,10 @@ article a{
     font-size: 16px;
     font-family: poppinsregular;
     text-transform: capitalize;
-    position: fixed;
-    bottom: 30px;
+    position: absolute;
+    bottom: 300px;
     left: 0;
-    margin-bottom: 10px;
-    margin-left: 260px;
+    margin-left: 200px;
    
 }
 .chat:hover, .chattwo .send:hover{
@@ -466,12 +469,10 @@ article a{
 .chatbox{
     width: 300px; 
     background-color: #56063e;
-    position: fixed;
-    bottom: 30px;
+    position: absolute;
+   bottom: 300px;
     left: 0;
-    margin-bottom: 10px;
-    margin-left: 260px;
-    
+    margin-left: 200px;
     display: none;
 }
 
@@ -521,10 +522,11 @@ article a{
 }
 
 .couple img{
-    width: 600px;
-    height: 700px;
+    width: 500px;
+    height: 600px;
     margin-left: 760px;
-    margin-top: -116px;
+    margin-top: 50px;
+   
 }
 
 
