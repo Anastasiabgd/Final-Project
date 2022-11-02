@@ -450,6 +450,7 @@ body{
 }
 .info .mail{
     padding-left: 40px;
+    text-transform: none;
 }
 
 .chat{
