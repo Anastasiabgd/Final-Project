@@ -445,6 +445,12 @@ body{
     left: 80px;
     
 }
+.info .phone{
+    padding-left: 20px;
+}
+.info .mail{
+    padding-left: 40px;
+}
 
 .chat{
     width: 300px;
