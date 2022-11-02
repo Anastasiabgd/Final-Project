@@ -465,7 +465,7 @@ body{
     position: absolute;
     bottom: 300px;
     left: 0;
-    margin-left: 200px;
+    margin-left: 180px;
    
 }
 .chat:hover, .chattwo .send:hover{
@@ -477,9 +477,9 @@ body{
     width: 300px; 
     background-color: #56063e;
     position: absolute;
-   bottom: 300px;
+    bottom: 300px;
     left: 0;
-    margin-left: 200px;
+    margin-left: 180px;
     display: none;
 }
 
